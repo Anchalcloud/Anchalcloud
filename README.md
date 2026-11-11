@@ -33,6 +33,13 @@ A responsive e-commerce platform with shopping, wishlist and cart functionality.
 - Building practical full-stack applications
 - Learning AI and Machine Learning fundamentals
 
+### DSA-Python
+A collection of Data Structures and Algorithms solutions implemented in Python, organized topic-wise to strengthen problem-solving and prepare for technical interviews.
+
+**Tech:** Python, LeetCode, Git & GitHub
+
+[View Repository](https://github.com/Anchalcloud/DSA-Python)
+
 ### 🌐 Connect With Me
 
 - **Portfolio:** https://luminary-two-gray.vercel.app/
