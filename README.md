@@ -18,27 +18,25 @@ I'm a Computer Science and Engineering student interested in building practical 
 - **Databases:** MongoDB, PostgreSQL
 - **Developer Tools:** Git, GitHub, VS Code
   
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**FlowDesk** – Workplace Request Management System  
-A full-stack application for managing workplace requests, tracking status and handling employee workflows.
+### 1. FlowDesk – Workplace Request Management System
+A full-stack application designed to manage workplace requests, track request statuses, and streamline employee workflows with role-based access control.
 
-**Floerella** – E-commerce Web Application  
-A responsive e-commerce platform with shopping, wishlist and cart functionality.
+**Tech Stack:** React.js, TypeScript, NestJS, PostgreSQL, Prisma
 
-### 📚 Current Focus
+### 2. Floerella – E-commerce Web Application
+A responsive flower shopping website featuring product browsing, wishlist, shopping cart, and an intuitive user interface.
 
-- Strengthening Data Structures and Algorithms
-- Improving backend development skills
-- Building practical full-stack applications
-- Learning AI and Machine Learning fundamentals
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-### DSA-Python
-A collection of Data Structures and Algorithms solutions implemented in Python, organized topic-wise to strengthen problem-solving and prepare for technical interviews.
+### 3. DSA-Python – Data Structures & Algorithms
+A topic-wise collection of Python solutions to coding problems, focused on algorithmic thinking and technical interview preparation.
 
-**Tech:** Python, LeetCode, Git & GitHub
+**Tech Stack:** Python, LeetCode
 
-[View Repository](https://github.com/Anchalcloud/DSA-Python)
+[View FlowDesk](https://github.com/Anchalcloud/FlowDesk) | [View Floerella](https://github.com/Anchalcloud/floerella-mern) | [View DSA-Python](https://github.com/Anchalcloud/DSA-Python)
+
 
 ### 🌐 Connect With Me
 
