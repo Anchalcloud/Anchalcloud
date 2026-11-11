@@ -10,14 +10,14 @@ I'm a Computer Science and Engineering student interested in building practical 
 - 🧠 Practicing Data Structures and Algorithms using Python
 - 🌱 Exploring Artificial Intelligence and Machine Learning
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-- **Languages:** Python, Java, JavaScript
-- **Frontend:** HTML, CSS, React.js
-- **Backend:** Node.js, Express.js, NestJS
-- **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, VS Code
-
+- **Programming Languages:** Python, Java, JavaScript
+- **Frontend Development:** HTML5, CSS3, React.js
+- **Backend Development:** Node.js, Express.js, NestJS
+- **Databases:** MongoDB, PostgreSQL
+- **Developer Tools:** Git, GitHub, VS Code
+  
 ### 🚀 Featured Projects
 
 **FlowDesk** – Workplace Request Management System  
