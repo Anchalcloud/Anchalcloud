@@ -20,12 +20,12 @@ I'm a Computer Science and Engineering student interested in building practical 
   
 ## 🚀 Featured Projects
 
-### 1. FlowDesk – Workplace Request Management System
+### 1. FlowDesk – Workplace Request Management System | In progress
 A full-stack application designed to manage workplace requests, track request statuses, and streamline employee workflows with role-based access control.
 
 **Tech Stack:** React.js, TypeScript, NestJS, PostgreSQL, Prisma
 
-### 2. Floerella – E-commerce Web Application
+### 2. Floerella – E-commerce Web Application 
 A responsive flower shopping website featuring product browsing, wishlist, shopping cart, and an intuitive user interface.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
@@ -35,7 +35,7 @@ A topic-wise collection of Python solutions to coding problems, focused on algor
 
 **Tech Stack:** Python, LeetCode
 
-[View FlowDesk](https://github.com/Anchalcloud/FlowDesk) | [View Floerella](https://github.com/Anchalcloud/floerella-mern) | [View DSA-Python](https://github.com/Anchalcloud/DSA-Python)
+ [View Floerella](https://github.com/Anchalcloud/floerella-mern) | [View DSA-Python](https://github.com/Anchalcloud/DSA-Python)
 
 
 ### 🌐 Connect With Me
