@@ -32,7 +32,7 @@ A responsive flower shopping website featuring product browsing, wishlist, shopp
 
 ### 3. DSA-Python – Data Structures & Algorithms
 A topic-wise collection of Python solutions to coding problems, focused on algorithmic thinking and technical interview preparation. 
-Solved till 130+ problems.
+Solved till now 130+ problems.
 
 **Tech Stack:** Python, LeetCode
 
