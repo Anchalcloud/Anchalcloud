@@ -31,7 +31,8 @@ A responsive flower shopping website featuring product browsing, wishlist, shopp
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 ### 3. DSA-Python – Data Structures & Algorithms
-A topic-wise collection of Python solutions to coding problems, focused on algorithmic thinking and technical interview preparation.
+A topic-wise collection of Python solutions to coding problems, focused on algorithmic thinking and technical interview preparation. 
+Solved till 130+ problems.
 
 **Tech Stack:** Python, LeetCode
 
