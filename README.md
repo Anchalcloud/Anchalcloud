@@ -23,7 +23,7 @@ I'm a Computer Science and Engineering student interested in building practical 
 ### 1. FlowDesk – Workplace Request Management System | In progress
 A full-stack application designed to manage workplace requests, track request statuses, and streamline employee workflows with role-based access control.
 
-**Tech Stack:** React.js, TypeScript, NestJS, PostgreSQL, Prisma
+**Tech Stack:** React.js, TypeScript, NestJS, Next.js,  PostgreSQL, Prisma
 
 ### 2. Floerella – E-commerce Web Application 
 A responsive flower shopping website featuring product browsing, wishlist, shopping cart, and an intuitive user interface.
